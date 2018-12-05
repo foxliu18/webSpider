@@ -1,0 +1,146 @@
+<scheme name="Darcula copy" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2018-12-05T21:31:19</property>
+    <property name="ide">Python</property>
+    <property name="ideVersion">2018.3.0.0</property>
+    <property name="modified">2018-12-05T21:31:45</property>
+    <property name="originalScheme">Darcula copy</property>
+  </metaInfo>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Ubuntu Mono" />
+    <option name="EDITOR_FONT_SIZE" value="22" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Monospaced" />
+    <option name="EDITOR_FONT_SIZE" value="24" />
+  </console-font>
+  <option name="CONSOLE_LINE_SPACING" value="1.1" />
+  <attributes>
+    <option name="NOT_USED_ELEMENT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="PY.ANNOTATION">
+      <value>
+        <option name="FOREGROUND" value="54a4c6" />
+      </value>
+    </option>
+    <option name="PY.BRACES">
+      <value>
+        <option name="FOREGROUND" value="84a4b6" />
+      </value>
+    </option>
+    <option name="PY.BRACKETS">
+      <value>
+        <option name="FOREGROUND" value="758da5" />
+      </value>
+    </option>
+    <option name="PY.CLASS_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="c69120" />
+      </value>
+    </option>
+    <option name="PY.FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="63dded" />
+      </value>
+    </option>
+    <option name="PY.FUNC_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="ed7eff" />
+      </value>
+    </option>
+    <option name="PY.INVALID_STRING_ESCAPE">
+      <value>
+        <option name="FOREGROUND" value="6a8759" />
+        <option name="BACKGROUND" value="d6280d" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="PY.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="9c6bfc" />
+      </value>
+    </option>
+    <option name="PY.KEYWORD_ARGUMENT">
+      <value>
+        <option name="FOREGROUND" value="69e2aa" />
+      </value>
+    </option>
+    <option name="PY.METHOD_CALL">
+      <value>
+        <option name="FOREGROUND" value="767bf4" />
+      </value>
+    </option>
+    <option name="PY.OPERATION_SIGN">
+      <value>
+        <option name="FOREGROUND" value="5f82c6" />
+      </value>
+    </option>
+    <option name="PY.PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="f998f2" />
+      </value>
+    </option>
+    <option name="PY.PARENTHS">
+      <value>
+        <option name="FOREGROUND" value="54a4c6" />
+      </value>
+    </option>
+    <option name="PY.PREDEFINED_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="ab518c" />
+      </value>
+    </option>
+    <option name="PY.SELF_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="ba6eb3" />
+      </value>
+    </option>
+    <option name="PY.STRING.B">
+      <value>
+        <option name="FOREGROUND" value="c0cb2d" />
+      </value>
+    </option>
+    <option name="PY.STRING.U">
+      <value>
+        <option name="FOREGROUND" value="5df244" />
+      </value>
+    </option>
+    <option name="RAINBOW_COLOR0">
+      <value>
+        <option name="FOREGROUND" value="28e294" />
+      </value>
+    </option>
+    <option name="RAINBOW_COLOR1">
+      <value>
+        <option name="FOREGROUND" value="c0d225" />
+      </value>
+    </option>
+    <option name="RAINBOW_COLOR2">
+      <value>
+        <option name="FOREGROUND" value="d5af59" />
+      </value>
+    </option>
+    <option name="RAINBOW_COLOR3">
+      <value>
+        <option name="FOREGROUND" value="fea384" />
+      </value>
+    </option>
+    <option name="RAINBOW_COLOR4">
+      <value>
+        <option name="FOREGROUND" value="e52ddd" />
+      </value>
+    </option>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="729e76" />
+        <option name="BACKGROUND" value="2b2b2b" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
