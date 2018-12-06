@@ -3,6 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="6fb88fbd-11c0-4d28-8a98-ed2b79eaf9e9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/dictionaries/liu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/liu.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/webSpider.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webSpider.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter7/selenium_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter7/selenium_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/pip-selfcheck.json" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,25 +27,34 @@
     <SUITE FILE_PATH="coverage/webSpider$bs4_test.coverage" NAME="bs4_test Coverage Results" MODIFIED="1544013371499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter4" />
     <SUITE FILE_PATH="coverage/WebSpider$search_film.coverage" NAME="search_film Coverage Results" MODIFIED="1543078465262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter3" />
     <SUITE FILE_PATH="coverage/webSpider$testUrllib.coverage" NAME="testUrllib Coverage Results" MODIFIED="1544013420148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter3" />
-    <SUITE FILE_PATH="coverage/webSpider$selenium_test.coverage" NAME="selenium_test Coverage Results" MODIFIED="1544017243924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter7" />
+    <SUITE FILE_PATH="coverage/webSpider$selenium_test.coverage" NAME="selenium_test Coverage Results" MODIFIED="1544095218375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter7" />
     <SUITE FILE_PATH="coverage/WebSpider$url_parse.coverage" NAME="url_parse Coverage Results" MODIFIED="1542988759667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test3" />
     <SUITE FILE_PATH="coverage/webSpider$url_parse.coverage" NAME="url_parse Coverage Results" MODIFIED="1544013432952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter3" />
-    <SUITE FILE_PATH="coverage/WebSpider$webSpider.coverage" NAME="webSpider Coverage Results" MODIFIED="1542553074711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Python3ENV/WebSpider" />
+    <SUITE FILE_PATH="coverage/WebSpider$webSpider.coverage" NAME="webSpider Coverage Results" MODIFIED="1542553074711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/" />
     <SUITE FILE_PATH="coverage/WebSpider$requests_session.coverage" NAME="requests_session Coverage Results" MODIFIED="1543028709649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter3" />
     <SUITE FILE_PATH="coverage/WebSpider$regex_match.coverage" NAME="regex_match Coverage Results" MODIFIED="1543069160105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter3" />
     <SUITE FILE_PATH="coverage/webSpider$search_film.coverage" NAME="search_film Coverage Results" MODIFIED="1544013398090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter3" />
     <SUITE FILE_PATH="coverage/webSpider$bs4_method.coverage" NAME="bs4_method Coverage Results" MODIFIED="1544013320611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter4" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter7/selenium_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="267">
-              <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+            <state relative-caret-position="1539">
+              <caret line="67" selection-start-line="67" selection-end-line="67" />
               <folding>
-                <element signature="e#143#154#0" expanded="true" />
+                <element signature="n#!!doc" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapter7/splash.lua">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="127">
+              <caret line="7" selection-start-line="7" selection-end-line="19" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -62,6 +75,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/chapter7/selenium_test.py" />
+        <option value="$PROJECT_DIR$/chapter7/splash.lua" />
       </list>
     </option>
   </component>
@@ -78,6 +92,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -94,12 +109,18 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Colors" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings>
+        <option name="useSoftWraps" value="true" />
+      </console-settings>
+    </option>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -260,7 +281,13 @@
       <workItem from="1543167063774" duration="183000" />
       <workItem from="1544012351158" duration="20000" />
       <workItem from="1544012450185" duration="1355000" />
-      <workItem from="1544013888687" duration="3953000" />
+      <workItem from="1544013888687" duration="4065000" />
+      <workItem from="1544064775482" duration="777000" />
+      <workItem from="1544065988646" duration="1279000" />
+      <workItem from="1544077554212" duration="814000" />
+      <workItem from="1544093678157" duration="5037000" />
+      <workItem from="1544102483578" duration="696000" />
+      <workItem from="1544103495110" duration="1392000" />
     </task>
     <task id="LOCAL-00001" summary="delete idea">
       <created>1544013776811</created>
@@ -283,21 +310,49 @@
       <option name="project" value="LOCAL" />
       <updated>1544014426519</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="selenium">
+      <created>1544021183147</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1544021183147</updated>
+    </task>
+    <task id="LOCAL-00005" summary="selenium">
+      <created>1544021210627</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1544021210627</updated>
+    </task>
+    <task id="LOCAL-00006" summary="selenium">
+      <created>1544021226220</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1544021226220</updated>
+    </task>
+    <task id="LOCAL-00007" summary="color theme">
+      <created>1544021260535</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1544021260535</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4565000" />
+    <option name="totallyTimeSpent" value="14672000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-2" width="1366" height="770" extended-state="6" />
+    <frame x="0" y="0" width="1366" height="768" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16983895" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18154311" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32911393" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49926794" visible="true" weight="0.46706587" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4978038" weight="0.38787878" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.49208862" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -305,9 +360,9 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49853587" weight="0.35928145" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5014641" side_tool="true" weight="0.35928145" />
-      <window_info anchor="bottom" id="Python Console" order="11" weight="0.36393443" />
-      <window_info anchor="bottom" x="0" y="224" width="1366" height="280" id="Terminal" order="12" sideWeight="0.49926794" weight="0.39820358" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="10" sideWeight="0.5036603" side_tool="true" visible="true" weight="0.47492164" />
+      <window_info anchor="bottom" id="Python Console" order="11" weight="0.31137726" />
+      <window_info anchor="bottom" x="0" y="224" width="1366" height="280" id="Terminal" order="12" sideWeight="0.49633968" weight="0.47575757" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -342,7 +397,9 @@
     <MESSAGE value="merge" />
     <MESSAGE value="delete idea" />
     <MESSAGE value="add ignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="add ignore" />
+    <MESSAGE value="selenium" />
+    <MESSAGE value="color theme" />
+    <option name="LAST_COMMIT_MESSAGE" value="color theme" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/tokenize.py" />
@@ -435,15 +492,52 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/venv/pyvenv.cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/env/pyvenv.cfg" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/chapter7/selenium_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+        <state relative-caret-position="1539">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
           <folding>
-            <element signature="e#143#154#0" expanded="true" />
+            <element signature="n#!!doc" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/chapter7/splash.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="7" selection-start-line="7" selection-end-line="19" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

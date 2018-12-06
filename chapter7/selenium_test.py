@@ -14,6 +14,8 @@ from selenium.webdriver.support import expected_conditions as EC
 browser = webdriver.Chrome()
 url_zhihu = 'https://www.zhihu.com/explore'
 url_taobao = 'https://www.taobao.com/'
+url_baidu = 'https://www.baidu.com/'
+url_python = 'https://python.org'
 
 
 def implied_wait():
@@ -41,14 +43,25 @@ def back_forward_action():
 
 def cookies_operation():
     browser.get(url_zhihu)
-    print(browser.get_cookie())
-    browser.add_cookie({'name': 'name', 'domain': 'www.zhihu.com', 'value': 'germey'})
-    print(browser.get_cookie())
+    print('1\n', browser.get_cookies()[0])
+    browser.add_cookie({'name': 'fox', 'domain': 'www.zhihu.com', 'value': 'germey'})
+    print('2\n', browser.get_cookies()[0])
     browser.delete_all_cookies()
-    print(browser.get_cookies())
+    print('3\n', browser.get_cookies())
+
+
+def window_tag_operation():
+    browser.get(url_baidu)
+    browser.execute_script('window.open()')
+    print(browser.window_handles)
+    browser.switch_to.window(browser.window_handles[1])
+    browser.get(url_taobao)
+    time.sleep(1)
+    browser.switch_to.window(browser.window_handles[0])
+    browser.get(url_python)
 
 
 if __name__ == '__main__':
-    cookies_operation()
+    window_tag_operation()
     browser.close()
 
