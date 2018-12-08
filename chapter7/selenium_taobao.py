@@ -6,7 +6,7 @@
 # @Software: PyCharm
 from urllib.parse import quote
 
-import pymongo as pymongo
+import pymongo
 from pyquery import PyQuery as pq
 from selenium import webdriver
 from selenium.common.exceptions import TimeoutException
@@ -16,9 +16,9 @@ from selenium.webdriver.support import expected_conditions as EC
 
 chrome_options = webdriver.ChromeOptions()
 chrome_options.add_argument('--headless')
-browser = webdriver.Chrome(chrome_options=chrome_options)
+browser = webdriver.Chrome()
 # browser1 = webdriver.Firefox()
-wait = WebDriverWait(browser, 10)
+wait = WebDriverWait(browser, 15)
 KEYWORD = 'iPad'
 
 
@@ -32,7 +32,7 @@ def index_page(page):
     try:
         url = 'https://s.taobao.com/search?q=' + quote(KEYWORD)
         browser.get(url)
-        if page >= 1:
+        if page > 1:
             eingabe = wait.until(
                 EC.presence_of_element_located((By.CSS_SELECTOR, '#mainsrp-pager div.form > input'))
             )
