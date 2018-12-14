@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6fb88fbd-11c0-4d28-8a98-ed2b79eaf9e9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter8/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter8/selenium_geetest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter8/tesseract_text.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/liu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/liu.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,6 +12,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/webSpider$request_test.coverage" NAME="request_test Coverage Results" MODIFIED="1544013378073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter3" />
+    <SUITE FILE_PATH="coverage/webSpider$proxy_test.coverage" NAME="proxy_test Coverage Results" MODIFIED="1544791933380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter9" />
     <SUITE FILE_PATH="coverage/webSpider$requests_session.coverage" NAME="requests_session Coverage Results" MODIFIED="1544013388424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter3" />
     <SUITE FILE_PATH="coverage/webSpider$selenium_geetest.coverage" NAME="selenium_geetest Coverage Results" MODIFIED="1544287267179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter8" />
     <SUITE FILE_PATH="coverage/WebSpider$request_test.coverage" NAME="request_test Coverage Results" MODIFIED="1543026875409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter3" />
@@ -45,60 +42,25 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter7/selenium_taobao.py">
+        <entry file="file://$PROJECT_DIR$/chapter8/chaojiying.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-313">
-              <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+            <state relative-caret-position="324">
+              <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
               <folding>
-                <element signature="e#145#175#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter8/tesseract_text.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
-              <folding>
-                <element signature="e#144#160#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter8/selenium_geetest.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-304">
-              <caret line="67" column="20" lean-forward="true" selection-start-line="67" selection-start-column="20" selection-end-line="67" selection-end-column="20" />
-              <folding>
-                <element signature="e#146#157#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter8/CrackTouClick.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="32" column="32" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
-              <folding>
-                <element signature="e#143#154#0" expanded="true" />
+                <element signature="e#140#155#0" expanded="true" />
+                <element signature="e#213#1493#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chapter8/chaojiying.py">
+        <entry file="file://$PROJECT_DIR$/chapter9/proxy_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="33">
-              <caret line="43" column="11" lean-forward="true" selection-start-line="43" selection-start-column="11" selection-end-line="43" selection-end-column="11" />
+            <state relative-caret-position="214">
+              <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
               <folding>
-                <element signature="e#140#155#0" expanded="true" />
+                <element signature="e#140#173#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -137,6 +99,7 @@
         <option value="$PROJECT_DIR$/chapter8/selenium_geetest.py" />
         <option value="$PROJECT_DIR$/chapter8/CrackTouClick.py" />
         <option value="$PROJECT_DIR$/chapter8/chaojiying.py" />
+        <option value="$PROJECT_DIR$/chapter9/proxy_test.py" />
       </list>
     </option>
   </component>
@@ -160,6 +123,11 @@
             <path>
               <item name="webSpider" type="b2602c69:ProjectViewProjectNode" />
               <item name="webSpider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webSpider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webSpider" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter9" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -191,7 +159,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.CrackTouClick">
+  <component name="RunManager" selected="Python.proxy_test">
     <configuration name="CrackTouClick" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="webSpider" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -236,6 +204,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="proxy_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="webSpider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter9" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter9/proxy_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="selenium_geetest" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="webSpider" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -250,28 +240,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter8/selenium_geetest.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="selenium_taobao" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="webSpider" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter7" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter7/selenium_taobao.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -303,19 +271,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.selenium_taobao" />
       <item itemvalue="Python.tesseract_test" />
       <item itemvalue="Python.geetest_test" />
       <item itemvalue="Python.selenium_geetest" />
       <item itemvalue="Python.CrackTouClick" />
+      <item itemvalue="Python.proxy_test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.proxy_test" />
         <item itemvalue="Python.CrackTouClick" />
         <item itemvalue="Python.selenium_geetest" />
         <item itemvalue="Python.geetest_test" />
         <item itemvalue="Python.tesseract_test" />
-        <item itemvalue="Python.selenium_taobao" />
       </list>
     </recent_temporary>
   </component>
@@ -349,7 +317,8 @@
       <workItem from="1544115617884" duration="94000" />
       <workItem from="1544148179434" duration="3545000" />
       <workItem from="1544231977154" duration="5369000" />
-      <workItem from="1544244336953" duration="15417000" />
+      <workItem from="1544244336953" duration="15704000" />
+      <workItem from="1544788317861" duration="3080000" />
     </task>
     <task id="LOCAL-00001" summary="delete idea">
       <created>1544013776811</created>
@@ -428,27 +397,41 @@
       <option name="project" value="LOCAL" />
       <updated>1544236197036</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="geetest error">
+      <created>1544289556198</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1544289556198</updated>
+    </task>
+    <task id="LOCAL-00013" summary="geetest error">
+      <created>1544289586891</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1544289586892</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43310000" />
+    <option name="totallyTimeSpent" value="46677000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="768" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17057101" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17057101" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3287879" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49633968" visible="true" weight="0.28333333" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49633968" weight="0.36515152" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4978038" weight="0.5863636" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3295082" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49853587" weight="0.3590909" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="8" sideWeight="0.49853587" visible="true" weight="0.35757574" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5036603" side_tool="true" weight="0.4318182" />
       <window_info anchor="bottom" id="Python Console" order="11" weight="0.31137726" />
@@ -493,7 +476,8 @@
     <MESSAGE value="selenium_taobao add" />
     <MESSAGE value="selenium_taobao edit" />
     <MESSAGE value="selenium_taobao error" />
-    <option name="LAST_COMMIT_MESSAGE" value="selenium_taobao error" />
+    <MESSAGE value="geetest error" />
+    <option name="LAST_COMMIT_MESSAGE" value="geetest error" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -649,33 +633,7 @@
     <entry file="file://$PROJECT_DIR$/chapter8/code.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter8/tesseract_text.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
-          <folding>
-            <element signature="e#144#160#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter7/selenium_taobao.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-313">
-          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
-          <folding>
-            <element signature="e#145#175#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter8/geetest_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter8/geetest_test.py" />
     <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/selenium/webdriver/support/wait.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="71">
@@ -689,10 +647,30 @@
     <entry file="file://$PROJECT_DIR$/chapter8/captcha2.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/chapter7/selenium_taobao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+          <folding>
+            <element signature="e#145#175#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter8/tesseract_text.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+          <folding>
+            <element signature="e#144#160#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/chapter8/selenium_geetest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-304">
-          <caret line="67" column="20" lean-forward="true" selection-start-line="67" selection-start-column="20" selection-end-line="67" selection-end-column="20" />
+        <state relative-caret-position="1566">
+          <caret line="67" column="20" selection-start-line="67" selection-start-column="20" selection-end-line="67" selection-end-column="20" />
           <folding>
             <element signature="e#146#157#0" expanded="true" />
           </folding>
@@ -711,10 +689,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter8/chaojiying.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33">
-          <caret line="43" column="11" lean-forward="true" selection-start-line="43" selection-start-column="11" selection-end-line="43" selection-end-column="11" />
+        <state relative-caret-position="324">
+          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
           <folding>
             <element signature="e#140#155#0" expanded="true" />
+            <element signature="e#213#1493#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter9/proxy_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+          <folding>
+            <element signature="e#140#173#0" expanded="true" />
           </folding>
         </state>
       </provider>
