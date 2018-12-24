@@ -6,12 +6,14 @@
 # @Software: PyCharm
 from urllib.error import URLError
 from urllib.request import ProxyHandler, build_opener
+from selenium import webdriver
 
 import requests
 
+proxy = '113.116.145.136:9000'
+
 
 def urllib_proxy():
-    proxy = '113.116.145.136:9000'
     proxy_handler = ProxyHandler({
         'http': 'http://' + proxy,
         'https': 'https://' + proxy
@@ -25,7 +27,6 @@ def urllib_proxy():
 
 
 def requests_proxy():
-    proxy = '113.116.145.136:9000'
     proxies = {
         'http': 'http://' + proxy,
         'https': 'https://' + proxy
@@ -37,5 +38,12 @@ def requests_proxy():
         print('Error', e.args)
 
 
+def selenium_proxy():
+    chrome_options = webdriver.ChromeOptions()
+    chrome_options.add_argument('--proxy-server=http://' + proxy)
+    browser = webdriver.Chrome(options=chrome_options)
+    browser.get('http://httpbin.org/get')
+
+
 if __name__ == '__main__':
-    requests_proxy()
+    selenium_proxy()
